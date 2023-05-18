@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 141c9104cd66a1d4ba97377e94e60e20, type: 3}
+  m_Name: Ice Level Warp
+  m_EditorClassIdentifier: 
+  paragraphs:
+  - Okay soldier, you're now heading to Zeta Giant. This flash frozen hunk of ice
+    is being terraformed by the invaders as we speak.
+  - I propose we throw a little wrench into those plans and introduce them to the
+    business end of Terran firepower.
+  - The terraforming detachment is small and shouldn't be expecting us. Shock and
+    awe soldier, shock and awe.

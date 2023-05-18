@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Ice Planet Ocean
+  m_Shader: {fileID: -6465566751694194690, guid: 052b8977498d58440b0a6b7147451b39, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - Amount: 0.005
+    - Depth_Fade: 2
+    - ENABLE_BENDING: 1
+    - Edge_Thickness: 0.95
+    - Foam_Depth: 5
+    - Foam_Noise_Scale: 5000
+    - Foam_Ripple_Speed: 0.5
+    - Noise_Scale: 0.1
+    - Smoothness: 0.8
+    - Texture_Only: 1
+    - Wave_Height: 5
+    - Wave_Size: 1000
+    - Wave_Speed: 1.3
+    m_Colors:
+    - Colour: {r: 0, g: 0.11098779, b: 0.18867922, a: 0}
+    - Deep: {r: 0.33129293, g: 0.11084905, b: 0.5, a: 1}
+    - Foam_Colour: {r: 0.46226418, g: 0.22459063, b: 0.4531905, a: 1}
+    - Shallow: {r: 0.55887794, g: 0.13803844, b: 0.6226415, a: 0}
+    - _Color: {r: 0.5568628, g: 0.17254902, b: 0.85098046, a: 0}
+  m_BuildTextureStacks: []

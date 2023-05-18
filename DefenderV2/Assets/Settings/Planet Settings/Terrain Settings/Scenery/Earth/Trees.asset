@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e82f60326906b1419d8799d39d8ab9d, type: 3}
+  m_Name: Trees
+  m_EditorClassIdentifier: 
+  models:
+  - {fileID: 3874926561619755687, guid: a63c53487648fab4d8d1fb2c1da7efd2, type: 3}
+  - {fileID: 8900173248716971555, guid: 29147290a08f06049993e2df4df4dce5, type: 3}
+  - {fileID: 2209865026173846967, guid: 5b9c90bf361ac9e4aa23c1b1fc499a45, type: 3}
+  - {fileID: 7402270974145090820, guid: d46e3f3d9cc78cb479dc43886fed3e7e, type: 3}
+  - {fileID: 5836351798662147502, guid: f786d6b2b140e16479266c8de4f068e4, type: 3}
+  amount: 800
+  density: 1
+  maxHeight: 3
+  minHeight: 2
+  alignToSurface: 0

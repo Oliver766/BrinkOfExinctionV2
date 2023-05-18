@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e82f60326906b1419d8799d39d8ab9d, type: 3}
+  m_Name: Ocean Debri
+  m_EditorClassIdentifier: 
+  models:
+  - {fileID: 8912513814005942405, guid: 48fb49ed19ac9af4c817c108a9f3b9a0, type: 3}
+  - {fileID: 6524001302223981066, guid: 5163810e1ef874847a1c8e79a01a4836, type: 3}
+  - {fileID: 6542795713169246068, guid: e509ac6c39f2f754396044cba5d32309, type: 3}
+  - {fileID: 467754868078382924, guid: f169372fe478d724a84406087b60419b, type: 3}
+  - {fileID: 2067560367545211668, guid: 31eb59752af1ee34f8aebc9cb89443f6, type: 3}
+  amount: 100
+  density: 5
+  maxHeight: 2
+  minHeight: 0
+  alignToSurface: 0

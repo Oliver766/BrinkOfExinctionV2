@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 141c9104cd66a1d4ba97377e94e60e20, type: 3}
+  m_Name: Lava Level Warp
+  m_EditorClassIdentifier: 
+  paragraphs:
+  - This is it kid, we're taking the fight to them, you're on the way to their homeworld,
+    Karcus Prime.
+  - This fresh hell is what every planet in the system would look like if they had
+    their way.
+  - They think they are untouchable here. We're going to prove them wrong.

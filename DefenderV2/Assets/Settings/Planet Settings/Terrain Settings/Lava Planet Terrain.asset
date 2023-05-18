@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2943247b0a63fb24db4bb6f934467d52, type: 3}
+  m_Name: Lava Planet Terrain
+  m_EditorClassIdentifier: 
+  heightModifier: -8
+  edgeFalloff: 10
+  roughness: 8
+  islandSize: 0.1
+  islandHeight: 15
+  maxHeight: 5
+  minHeight: -20
+  gradient:
+    serializedVersion: 2
+    key0: {r: 0.5471698, g: 0.21457641, b: 0, a: 1}
+    key1: {r: 0.4716981, g: 0.18497966, b: 0, a: 1}
+    key2: {r: 1, g: 0.59292036, b: 0, a: 1}
+    key3: {r: 1, g: 0.031644687, b: 0, a: 0}
+    key4: {r: 0.93246514, g: 0.029507566, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 1, g: 1, b: 1, a: 0}
+    key7: {r: 1, g: 1, b: 1, a: 0}
+    ctime0: 0
+    ctime1: 45104
+    ctime2: 46838
+    ctime3: 47802
+    ctime4: 63415
+    ctime5: 65535
+    ctime6: 65535
+    ctime7: 65535
+    atime0: 0
+    atime1: 65535
+    atime2: 65535
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 6
+    m_NumAlphaKeys: 2
+  scenery: []

@@ -1,0 +1,583 @@
+fileFormatVersion: 2
+guid: 62ba4d0c46cb09140b36c1f52ca4998b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8537017202662734895
+    second: Menu_BoE_0
+  - first:
+      213: -5373476908955074927
+    second: Menu_BoE_1
+  - first:
+      213: 4862857414204485617
+    second: Menu_BoE_2
+  - first:
+      213: -8024862008333417391
+    second: Menu_BoE_3
+  - first:
+      213: 4034467791622875312
+    second: Menu_BoE_4
+  - first:
+      213: 2865930068691713607
+    second: Menu_BoE_5
+  - first:
+      213: -4928132320326953094
+    second: Menu_BoE_6
+  - first:
+      213: 3803187842949600560
+    second: Menu_BoE_7
+  - first:
+      213: 5021029900486318874
+    second: Menu_BoE_8
+  - first:
+      213: -5952940078064465352
+    second: Menu_BoE_9
+  - first:
+      213: -7308589044431842716
+    second: Menu_BoE_10
+  - first:
+      213: -4021714929358083000
+    second: Menu_BoE_11
+  - first:
+      213: 1337485403719612051
+    second: Menu_BoE_12
+  - first:
+      213: 7523270139334582935
+    second: Menu_BoE_13
+  - first:
+      213: -2621995561931549792
+    second: Menu_BoE_14
+  - first:
+      213: -6215166368634507715
+    second: Menu_BoE_15
+  - first:
+      213: 1905573084224422257
+    second: Menu_BoE_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Menu_BoE_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 377
+        width: 2913
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d383e1d51c668980800000000000000
+      internalID: -8537017202662734895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_BoE_1
+      rect:
+        serializedVersion: 2
+        x: 2662
+        y: 64
+        width: 3886
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ef7f0a8339d65b0800000000000000
+      internalID: -5373476908955074927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_BoE_2
+      rect:
+        serializedVersion: 2
+        x: 3065
+        y: 158
+        width: 196
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff680fbd075c7340800000000000000
+      internalID: 4862857414204485617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_BoE_3
+      rect:
+        serializedVersion: 2
+        x: 3271
+        y: 158
+        width: 197
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15442cd5586f1a090800000000000000
+      internalID: -8024862008333417391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_BoE_4
+      rect:
+        serializedVersion: 2
+        x: 3480
+        y: 158
+        width: 78
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8af69b41f4df730800000000000000
+      internalID: 4034467791622875312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_BoE_5
+      rect:
+        serializedVersion: 2
+        x: 3567
+        y: 158
+        width: 197
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74efa7f8634d5c720800000000000000
+      internalID: 2865930068691713607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_BoE_6
+      rect:
+        serializedVersion: 2
+        x: 3777
+        y: 158
+        width: 197
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a775ac8d3c1cb9bb0800000000000000
+      internalID: -4928132320326953094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_BoE_7
+      rect:
+        serializedVersion: 2
+        x: 4003
+        y: 158
+        width: 196
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03558196133a7c430800000000000000
+      internalID: 3803187842949600560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_BoE_8
+      rect:
+        serializedVersion: 2
+        x: 4212
+        y: 158
+        width: 355
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b1a1987184ea540800000000000000
+      internalID: 5021029900486318874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_BoE_9
+      rect:
+        serializedVersion: 2
+        x: 4573
+        y: 158
+        width: 197
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a08cdf988e26da0800000000000000
+      internalID: -5952940078064465352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_BoE_10
+      rect:
+        serializedVersion: 2
+        x: 4779
+        y: 158
+        width: 197
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46214559cfca29a90800000000000000
+      internalID: -7308589044431842716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_BoE_11
+      rect:
+        serializedVersion: 2
+        x: 4979
+        y: 158
+        width: 77
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ce9b7649fff28c0800000000000000
+      internalID: -4021714929358083000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_BoE_12
+      rect:
+        serializedVersion: 2
+        x: 5069
+        y: 158
+        width: 197
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3963afc63e3bf8210800000000000000
+      internalID: 1337485403719612051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_BoE_13
+      rect:
+        serializedVersion: 2
+        x: 5275
+        y: 158
+        width: 394
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792675ce456086860800000000000000
+      internalID: 7523270139334582935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_BoE_14
+      rect:
+        serializedVersion: 2
+        x: 5672
+        y: 158
+        width: 74
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a35b68adeccc9bd0800000000000000
+      internalID: -2621995561931549792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_BoE_15
+      rect:
+        serializedVersion: 2
+        x: 5759
+        y: 158
+        width: 196
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ee599fd1b4fb9a0800000000000000
+      internalID: -6215166368634507715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_BoE_16
+      rect:
+        serializedVersion: 2
+        x: 5965
+        y: 158
+        width: 197
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1710ebabf94f17a10800000000000000
+      internalID: 1905573084224422257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8b071727dd033174b8e702e722f325ff
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Menu_BoE_8: 5021029900486318874
+      Menu_BoE_15: -6215166368634507715
+      Menu_BoE_6: -4928132320326953094
+      Menu_BoE_12: 1337485403719612051
+      Menu_BoE_16: 1905573084224422257
+      Menu_BoE_3: -8024862008333417391
+      Menu_BoE_7: 3803187842949600560
+      Menu_BoE_10: -7308589044431842716
+      Menu_BoE_1: -5373476908955074927
+      Menu_BoE_11: -4021714929358083000
+      Menu_BoE_9: -5952940078064465352
+      Menu_BoE_13: 7523270139334582935
+      Menu_BoE_2: 4862857414204485617
+      Menu_BoE_4: 4034467791622875312
+      Menu_BoE_14: -2621995561931549792
+      Menu_BoE_5: 2865930068691713607
+      Menu_BoE_0: -8537017202662734895
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

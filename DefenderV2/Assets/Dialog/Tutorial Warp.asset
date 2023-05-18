@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 141c9104cd66a1d4ba97377e94e60e20, type: 3}
+  m_Name: Tutorial Warp
+  m_EditorClassIdentifier: 
+  paragraphs:
+  - "Okay kid, can you hear me? Good. Now listen up, I have the unfortunate task
+    of\_somehow getting you in fighting shape before these bastards wipe us out."
+  - "Personally,\_you weren\u2019t my first choice for this, but you\u2019re the
+    only person left in the galaxy who can pilot this thing. If I could have flown
+    the Avenger myself, I would have."
+  - "You\u2019re currently en-route to what\u2019s left of our homeworld. I don\u2019t
+    have to tell you how much we\u2019ve lost to these bastards, but I thought bringing
+    you here would remind you of what we\u2019re fighting for\u2026"
+  - "Alright kid, you\u2019re on the approach vector now, hold on to your knickers
+    whilst we drop you out of warp..."

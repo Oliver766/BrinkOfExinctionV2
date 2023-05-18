@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8877469692383235901
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8877469692383235891}
+  - component: {fileID: 8877469692383235890}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8877469692383235891
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8877469692383235901}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -16.837196, y: -0.91081715, z: -5.192958}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8877469692383235890
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8877469692383235901}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c0dc2e59e80a12408ebe670164200d2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - clip: {fileID: 8300000, guid: 3893cab5e21c97e4288548ebe5f9da65, type: 3}
+    name: GatlingFire
+    volume: 0.3
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: bbe930afe926a0f4fb899d32a37e8f97, type: 3}
+    name: GatlingImpact
+    volume: 0.3
+    pitch: 2
+    loop: 0
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: 27af8cc3b5498bc47b5a7fae82c25bea, type: 3}
+    name: GatlingStop
+    volume: 0.3
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: 378baaa34c48c764096020a88920e7d6, type: 3}
+    name: GatlingStart
+    volume: 0.3
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: c2f371b680ebf2942b5e2a2b198ad5c6, type: 3}
+    name: Main Theme
+    volume: 0.2
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: 96fb3f6ee41ea4c4dbb98da884193289, type: 3}
+    name: LockOnStart
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: 56ec834091e425244aa9ca5fb7ddd6f4, type: 3}
+    name: LockedOn
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: 9fcbe33501d53264283c6e7cd5af169c, type: 3}
+    name: MissileLaunch
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: bdffb3cc1cae20e41ac0f6cc77f8de3f, type: 3}
+    name: CoolDown
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: fd6ec6a8a68137f40b0c4f9dbef84636, type: 3}
+    name: MissileImpact
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - clip: {fileID: 8300000, guid: bd86ba3084a1aa74e9397374ef5e8f19, type: 3}
+    name: LaserLoop
+    volume: 0.5
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}

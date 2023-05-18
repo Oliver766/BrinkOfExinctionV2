@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b892bec89ae27a04984a874d40e2c90a, type: 3}
+  m_Name: Lava Planet
+  m_EditorClassIdentifier: 
+  terrainSettings: {fileID: 11400000, guid: 39c48fbca93afdb43b840cbe131d87bb, type: 2}
+  oceanMaterial: {fileID: 2100000, guid: 77f633e4f5951ab4fbc6ef781297c54c, type: 2}
+  skyboxMaterial: {fileID: 2100000, guid: 6eb515187cd5db942b528a212318d63d, type: 2}
+  lightingColor: {r: 1, g: 0.51383305, b: 0.24056602, a: 1}
